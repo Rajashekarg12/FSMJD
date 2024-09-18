@@ -1,10 +1,9 @@
 {
     "tasks": [
         {
-            "TaskCode": "FND_MANAGE_COMMON_LOOKUPS",       
-			"AttributeName": "LookupType",
-			"AttributeValue": "ORA_PER_UNION_CODE##TEST_TR"                
-            ]
+            "TaskCode": "FND_MANAGE_COMMON_LOOKUPS",
+            "AttributeName": "LookupType",
+            "AttributeValue": "ORA_PER_UNION_CODE##TEST_TR"
         }
     ]
 }
